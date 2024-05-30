@@ -3,13 +3,13 @@
 [![Mail Badge](https://img.shields.io/badge/-nnaigos@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nnaigos@gmail.com)](nnaigos@gmail.com) [![Github Badge](https://img.shields.io/badge/-Hsuing-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hsuing/)](https://www.github.com/Hsuing/)
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Hsuing alt=Hsuing /> </p>
 
-<a href="https://github.com/ryyyc">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryyyc&show_icons=true&include_all_commits=true" />
+<a href="https://github.com/Hsuing">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hsuing&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ryyyc">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyyc&layout=compact" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsuing&layout=compact" />
 </a>
 
 Languages and Tools:
