@@ -16,6 +16,8 @@ Languages and Tools:
 
 <code><img height="20" src="https://book.ikubernetes.net/favicon-gopher.svg" alt="Go"></code>
 
+<code><img height="20" src="https://camo.githubusercontent.com/375b6dfe203b98d1d3c46fe337f1eece235926b5c7aa31ab1fede960fe7c3c2b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d617232312e737667" alt="BASH"></code>
+
 <!--
 **Hsuing/Hsuing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
