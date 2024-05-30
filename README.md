@@ -1,6 +1,7 @@
-## Hey 👋, This is Ruan
+## Hey 👋, This is Hsuing
 
-[![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
+[![Mail Badge](https://img.shields.io/badge/-nnaigos@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nnaigos@gmail.com)](nnaigos@gmail.com) [![Github Badge](https://img.shields.io/badge/-Hsuing-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hsuing/)](https://www.github.com/Hsuing/)
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
 
@@ -13,9 +14,7 @@
 
 Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="20" src="https://book.ikubernetes.net/favicon-gopher.svg" alt="Go"></code>
 
 <!--
 **Hsuing/Hsuing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
